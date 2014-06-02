@@ -5,6 +5,7 @@ gem "rails", "4.0"
 gem "simple_form"
 gem "browser_details"
 gem "sprockets-rails"
+gem "protected_attributes"
 
 group :assets do
   gem "sass-rails", "4.0.3"
