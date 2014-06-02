@@ -1,18 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8307cd37-6655-4754-9247-704d9568d3bc" name="Default" comment="" />
+    <list default="true" id="8307cd37-6655-4754-9247-704d9568d3bc" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/data/meta_request/080ae227-1d58-49b7-807b-3e07ad5dab2a.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/data/meta_request/14e6a58a-79fa-438c-9b62-f08763e3e557.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/data/meta_request/2f18c85b-e31e-41b4-939f-d1cf23f16f19.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/data/meta_request/6279c6be-94ff-422e-b657-b8f9f35cf4ca.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/data/meta_request/6d14aa7f-e41d-41f1-8337-9507d3066cb9.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/data/meta_request/724151d6-459e-4101-9714-5cf0a70dac5e.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/data/meta_request/9d5a7b58-42f8-4d6b-b04c-7ca5c11ea320.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/data/meta_request/9f4cb2e2-a16c-4acd-b1d4-5db1a9bbcd04.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/data/meta_request/c08f0d20-365b-4881-b601-3e8b9d62ca04.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tmp/data/meta_request/d9ed6f37-d26e-4d39-b948-45eaa0253690.json" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/2f5173deea6c795b8fdde723bb4b63af" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/2f5173deea6c795b8fdde723bb4b63af" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/39c5f08a3fa56fa715c0edef77579c3f" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/39c5f08a3fa56fa715c0edef77579c3f" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/7281c4305a0beba622ad1a38f6441f3b" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/7281c4305a0beba622ad1a38f6441f3b" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/cffd775d018f68ce5dba1ee0d951a994" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/cffd775d018f68ce5dba1ee0d951a994" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/e9b7526c04436985a2d42a6353cbaeb5" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/e9b7526c04436985a2d42a6353cbaeb5" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/f7cbd26ba1d28d48de824f0e94586655" afterPath="$PROJECT_DIR$/tmp/cache/assets/development/sprockets/f7cbd26ba1d28d48de824f0e94586655" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asteroids.iml" afterPath="$PROJECT_DIR$/asteroids.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="asteroids.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/home_controller.rb" changelist="8307cd37-6655-4754-9247-704d9568d3bc" time="1401673892972" ignored="false" />
     <file path="/system.rb" changelist="8307cd37-6655-4754-9247-704d9568d3bc" time="1401674707181" ignored="false" />
     <file path="/show.html.erb" changelist="8307cd37-6655-4754-9247-704d9568d3bc" time="1401674681625" ignored="false" />
-    <file path="/a.dummy" changelist="8307cd37-6655-4754-9247-704d9568d3bc" time="1401678904463" ignored="false" />
+    <file path="/a.dummy" changelist="8307cd37-6655-4754-9247-704d9568d3bc" time="1401679822347" ignored="false" />
     <file path="/application.html.erb" changelist="8307cd37-6655-4754-9247-704d9568d3bc" time="1401674726863" ignored="false" />
     <file path="/game.css.scss" changelist="8307cd37-6655-4754-9247-704d9568d3bc" time="1401676166886" ignored="false" />
-    <file path="/Dummy.txt" changelist="8307cd37-6655-4754-9247-704d9568d3bc" time="1401676238084" ignored="false" />
-    <file path="/Gemfile" changelist="8307cd37-6655-4754-9247-704d9568d3bc" time="1401679286661" ignored="false" />
+    <file path="/Dummy.txt" changelist="8307cd37-6655-4754-9247-704d9568d3bc" time="1401683085225" ignored="false" />
+    <file path="/Gemfile" changelist="8307cd37-6655-4754-9247-704d9568d3bc" time="1401683098484" ignored="false" />
     <file path="/application.css.scss" changelist="8307cd37-6655-4754-9247-704d9568d3bc" time="1401678293713" ignored="false" />
+    <file path="/game.js" changelist="8307cd37-6655-4754-9247-704d9568d3bc" time="1401679900392" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,30 +94,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="visitor_helper.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/helpers/visitor_helper.rb">
+      <file leaf-file-name="game.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/game.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="19" selection-start="175" selection-end="175" vertical-scroll-proportion="0.0">
+            <state line="1" column="45" selection-start="77" selection-end="77" vertical-scroll-proportion="236.4">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
+      <file leaf-file-name="application.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="18" selection-start="516" selection-end="516" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="game.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/game.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="677" column="37" selection-start="24172" selection-end="24172" vertical-scroll-proportion="0.3634538">
+            <state line="47" column="0" selection-start="1428" selection-end="1428" vertical-scroll-proportion="-14.458333">
               <folding />
             </state>
           </provider>
@@ -129,15 +139,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/application.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="1" selection-start="180" selection-end="180" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="game.css.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/game.css.scss">
           <provider selected="true" editor-type-id="text-editor">
@@ -150,7 +151,34 @@
       <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="21" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0">
+            <state line="50" column="10" selection-start="963" selection-end="963" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="environment.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/environment.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="production.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="development.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -163,6 +191,14 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
@@ -172,7 +208,6 @@
         <option value="$PROJECT_DIR$/app/assets/stylesheets/bootstrap-patch.css.scss" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/application.js" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/shared.js" />
-        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/shared.css.scss" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/game.css.scss" />
         <option value="$PROJECT_DIR$/app/views/home/show.html.erb" />
@@ -180,8 +215,9 @@
         <option value="$PROJECT_DIR$/config/application.rb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css.scss" />
         <option value="$PROJECT_DIR$/Gemfile.lock" />
-        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/game.js" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -562,20 +598,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/views/shared/_flash_messages.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="9" selection-start="183" selection-end="183" vertical-scroll-proportion="0.16519824">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/initializers/system.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="24" selection-start="114" selection-end="114" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/bootstrap-patch.css.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="24" selection-start="24" selection-end="24" vertical-scroll-proportion="0.0">
@@ -593,13 +615,6 @@
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/shared.css.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="0" selection-start="247" selection-end="914" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="9" selection-start="739" selection-end="739" vertical-scroll-proportion="0.40268457">
           <folding />
         </state>
       </provider>
@@ -623,13 +638,6 @@
     <entry file="file://$PROJECT_DIR$/config/application.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="1" selection-start="180" selection-end="180" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="21" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -664,7 +672,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/game.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="677" column="37" selection-start="24172" selection-end="24172" vertical-scroll-proportion="0.3634538">
+        <state line="1" column="45" selection-start="77" selection-end="77" vertical-scroll-proportion="236.4">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="0" selection-start="1428" selection-end="1428" vertical-scroll-proportion="-14.458333">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="10" selection-start="963" selection-end="963" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environment.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
