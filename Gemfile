@@ -1,7 +1,6 @@
 source "https://rubygems.org"
 
 gem "rake"
-gem "sqlite3"
 gem "rails", "4.0"
 gem "simple_form"
 gem "browser_details"
@@ -21,6 +20,7 @@ group :development, :test do
   gem "pry-stack_explorer"
   gem "pry-vterm_aliases"
   gem "pry-remote"
+  gem "sqlite3"
   gem "launchy" # Allows save_and_open_page to work in Capybara.
 end
 
@@ -45,4 +45,8 @@ end
 
 group :test do
   gem "rspec-rails"
+end
+
+group :production do
+  gem "pg"
 end
