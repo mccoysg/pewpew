@@ -684,8 +684,9 @@
             this.navigation.className = "ASTEROIDSYEAH";
             with ( this.navigation.style ) {
                 fontFamily = "Arial,sans-serif";
-                position = "fixed";
+                position = "relative";
                 zIndex = "10001";
+                top = "600px";
                 bottom = "0px";
                 right = "10px";
                 textAlign = "left";
