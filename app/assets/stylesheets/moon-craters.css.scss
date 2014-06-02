@@ -1,0 +1,136 @@
+@import "compass/css3";
+@import "compass/utilities";
+
+$green: #0a5;
+$moon: #aaa;
+
+body {
+  background-color: #000;
+  height: 100%;
+  width: 100%;
+}
+
+.stars-far {
+  -webkit-animation: stars 0.5s steps(3) infinite alternate;
+  -moz-animation: stars 0.5s steps(3) infinite alternate;
+  animation: stars 0.5s steps(3) infinite alternate;
+  background: url(http://www.bryanjones.us/sites/all/themes/bryan/images/stars.png) repeat scroll left top transparent;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.planet-1 {
+  background-color: $green;
+  border: none;
+  height: 200px;
+  position: absolute;
+  right: 30%;
+  top: 30%;
+  width: 200px;
+
+  @include border-radius(50%);
+  @include box-shadow(inset -20px -20px 20px 10px #031);
+}
+
+.crater-1 {
+  background: darken($green, 5%);
+  height: 30px;
+  position: absolute;
+  right: 60px;
+  top: 40px;
+  width: 30px;
+
+  @include border-radius(50%);
+  @include box-shadow(inset 1px 1px 1px 1px darken($green, 20%),
+      -1px -1px 1px 1px lighten($green, 10%),
+    3px 3px 0px 0px darken($green, 10%),
+      inset -1px -1px 1px 0px lighten($green, 5%));
+}
+
+.crater-2 {
+  background: darken($green, 5%);
+  height: 40px;
+  position: absolute;
+  right: 100px;
+  top: 100px;
+  width: 40px;
+
+  @include border-radius(50% 40%);
+  @include box-shadow(inset 2px 2px 1px 1px darken($green, 20%),
+      -2px -2px 1px 1px lighten($green, 10%),
+    5px 5px 0px 0px darken($green, 10%),
+      inset -1px -1px 1px 0px lighten($green, 5%));
+}
+
+.crater-3 {
+  background: darken($green, 15%);
+  height: 20px;
+  position: absolute;
+  right: 40px;
+  top: 140px;
+  width: 20px;
+
+  @include border-radius(50% 40%);
+  @include box-shadow(inset 3px 3px 1px 0px darken($green, 20%),
+      -1px -1px 1px 1px darken($green, 5%),
+    1px 1px 0px 0px darken($green, 30%),
+      inset -1px -1px 1px 0px darken($green, 5%));
+}
+
+.moon-1 {
+  background-color: $moon;
+  height: 60px;
+  left: 40%;
+  position: absolute;
+  top: 60%;
+  width: 60px;
+
+  @include border-radius(50%);
+  @include box-shadow(inset -10px -10px 10px 3px darken($moon, 50%))
+}
+
+.crater-4 {
+  background: darken($moon, 5%);
+  height: 10px;
+  position: absolute;
+  right: 30px;
+  top: 10px;
+  width: 10px;
+
+  @include border-radius(50% 40%);
+  @include box-shadow(inset 1px 1px 1px 0px darken($moon, 20%),
+      -1px -1px 1px 1px lighten($moon, 5%),
+    1px 1px 0px 0px darken($moon, 30%),
+      inset -1px -1px 1px 0px lighten($moon, 5%));
+}
+
+.crater-5 {
+  background: darken($moon, 25%);
+  height: 10px;
+  position: absolute;
+  right: 20px;
+  top: 40px;
+  width: 10px;
+
+  @include border-radius(50%);
+  @include box-shadow(inset 1px 1px 1px 0px darken($moon, 40%),
+      -1px -1px 1px 1px darken($moon, 5%),
+    1px 1px 0px 0px darken($moon, 40%),
+      inset -1px -1px 1px 0px darken($moon, 15%));
+}
+
+/*@-webkit-keyframes stars{
+  0%{background-position:0 0}
+  100%{background-position:0 -525px}
+}
+@-moz-keyframes stars{
+  0%{background-position:0 0}
+  100%{ background-position:0 -525px }
+}
+@keyframes stars{
+  0%{ background-position:0 0 }
+  100%{ background-position:0 -525px }
+}*/
